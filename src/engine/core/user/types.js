@@ -1,0 +1,5 @@
+export const types = Object.freeze({
+  USER_LOGGING_IN: 'USER_LOGGING_IN',
+  USER_LOGGED_IN: 'USER_LOGGED_IN',
+  USER_LOGGED_OUT: 'USER_LOGGED_OUT',
+});
